@@ -1,0 +1,19 @@
+{
+  "name": "cursodeasincronismoconjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "author": "Juan Camilo juan.21futmas07@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
